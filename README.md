@@ -1,2 +1,0 @@
-# zemoso
-Training code
